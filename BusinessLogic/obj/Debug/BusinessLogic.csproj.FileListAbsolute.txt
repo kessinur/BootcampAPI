@@ -1,0 +1,32 @@
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\Common.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\Core.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\DataAccess.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\Core.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\Common.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\Core.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\DataAccess.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\Common.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\Core.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\BusinessLogic\obj\Debug\BusinessLogic.pdb

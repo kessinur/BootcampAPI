@@ -1,0 +1,18 @@
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.exe.config
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\Core.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\obj\Debug\Core.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\Core\obj\Debug\Core.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\Core.exe.config
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\Core.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\Core.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\EntityFramework.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\EntityFramework.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\obj\Debug\Core.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\Core\obj\Debug\Core.pdb

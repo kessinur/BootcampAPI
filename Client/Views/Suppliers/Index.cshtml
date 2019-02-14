@@ -1,9 +1,6 @@
-﻿
-@{
-    ViewBag.Title = "Index";
-}
-
-<h2>Index</h2>
+﻿@*@{
+    Layout = "~/Views/Shared/_LayoutAdministrator.cshtml";
+}*@
 
 <div class="container">
     <hr />
@@ -47,7 +44,7 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-primary" id="Save" onclick="Save();">Add</button>
                 <button type="button" class="btn btn-primary" id="Update" style="display:none;" onclick="Edit();">Update</button>
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal" onclick="ClearScreen()">Close</button>
             </div>
         </div>
     </div>
@@ -55,10 +52,10 @@
 
 
 @section Scripts {
-    <script src="~/Content/Sweetalert/sweetalert.min.js"></script>
-    <link href="~/Content/Sweetalert/sweetalert.css" rel="stylesheet" />
-    <script src="~/Content/Datatables/jquery.dataTables.min.js"></script>
-    <link href="~/Content/Datatables/jquery.dataTables.min.css" rel="stylesheet" />
+    <script src="~/Scripts/sweetalert.min.js"></script>
+    <link href="~/Scripts/sweetalert.css" rel="stylesheet" />
+    <script src="~/Scripts/datatables/jquery.dataTables.min.js"></script>
+    <link href="~/Scripts/datatables/jquery.dataTables.min.css" rel="stylesheet" />
     <script src="~/Scripts/SupplierMaster/RetrievingSupplier.js"></script>
     @Scripts.Render("~/bundles/jqueryval")
 }

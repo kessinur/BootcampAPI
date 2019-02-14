@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{ED88393F-CF62-433B-846E-3A43169F300A}</ProjectGuid>
+    <ProjectGuid>{FED2AE9A-2AD8-44DD-A947-49A0B43C20DD}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -68,14 +68,6 @@
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System.Web.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.7\lib\net45\System.Web.Cors.dll</HintPath>
       <Private>True</Private>
@@ -91,10 +83,6 @@
     </Reference>
     <Reference Include="System.Web.Http.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.7\lib\net45\System.Web.Http.Cors.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="System.Web.Http.WebHost, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.7\lib\net45\System.Web.Http.WebHost.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Xml.Linq" />
@@ -118,6 +106,9 @@
     <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
@@ -172,10 +163,6 @@
     </Reference>
     <Reference Include="Unity.WebApi, Version=5.3.0.0, Culture=neutral, PublicKeyToken=43da31bc42a85347, processorArchitecture=MSIL">
       <HintPath>..\packages\Unity.WebAPI.5.3.0\lib\net45\Unity.WebApi.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
-      <HintPath>..\packages\WebActivatorEx.2.2.0\lib\net40\WebActivatorEx.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="WebGrease">
@@ -269,6 +256,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ItemsController.cs" />
     <Compile Include="Controllers\SuppliersController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -349,21 +337,21 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Bootcamp.API.BusinessLogic\Bootcamp.API.BusinessLogic.csproj">
-      <Project>{2c97a5ef-bb4d-4c7a-afd5-c4827002d484}</Project>
-      <Name>Bootcamp.API.BusinessLogic</Name>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{a200d615-5864-4b36-9fdc-3c24a8c0527d}</Project>
+      <Name>BusinessLogic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Bootcamp.API.Common\Bootcamp.API.Common.csproj">
-      <Project>{fa419cd6-5f23-4852-8eeb-18631343dee6}</Project>
-      <Name>Bootcamp.API.Common</Name>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{2382eac0-1957-409e-ae8d-4ed7de802043}</Project>
+      <Name>Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Bootcamp.API.Core\Bootcamp.API.Core.csproj">
-      <Project>{cf8ffe39-c66b-472d-82c0-55978a44f3d4}</Project>
-      <Name>Bootcamp.API.Core</Name>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{49429639-0a4a-438f-9f08-5e259ce80057}</Project>
+      <Name>Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Bootcamp.API.DataAccess\Bootcamp.API.DataAccess.csproj">
-      <Project>{aa43fa26-46af-42ff-9856-d37b22fceffc}</Project>
-      <Name>Bootcamp.API.DataAccess</Name>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{aab377ec-b312-459a-9c56-6875ada7c038}</Project>
+      <Name>DataAccess</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
@@ -382,9 +370,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>7800</DevelopmentServerPort>
+          <DevelopmentServerPort>36902</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:7800/</IISUrl>
+          <IISUrl>http://localhost:36902/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

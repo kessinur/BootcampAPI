@@ -1,7 +1,7 @@
-using Bootcamp.API.BusinessLogic.Services;
-using Bootcamp.API.BusinessLogic.Services.Master;
-using Bootcamp.API.Common.Interfaces;
-using Bootcamp.API.Common.Interfaces.Master;
+using BusinessLogic.Services;
+using BusinessLogic.Services.Master;
+using Common.Interfaces;
+using Common.Interfaces.Master;
 using System.Web.Http;
 using Unity;
 using Unity.WebApi;
@@ -13,15 +13,17 @@ namespace Bootcamp.API
         public static void RegisterComponents()
         {
 			var container = new UnityContainer();
-            
+
             // register all your components with the container here
             // it is NOT necessary to register your controllers
-            
-            //this is service area
-            container.RegisterType<ISupplierService, SupplierService>();
 
-            //this is repository area
+            // this is Repository Area
+            container.RegisterType<ISupplierService, SupplierService>();
+            container.RegisterType<IItemService, ItemService>();
+
+            // this is Repository Area
             container.RegisterType<ISupplierRepository, SupplierRepository>();
+            container.RegisterType<IItemRepository, ItemRepository>();
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }

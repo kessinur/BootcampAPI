@@ -1,0 +1,29 @@
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.addingSupplierModel.resources
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+C:\Users\Mr. K\documents\visual studio 2015\Projects\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.IsAddingItems.resources
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.IsAddingItemsSuppliers.resources
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+D:\Mr. K\BootcampWebAPI\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb

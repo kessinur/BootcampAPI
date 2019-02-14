@@ -1,0 +1,16 @@
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.BusinessLogic.exe.config
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.BusinessLogic.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.BusinessLogic.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.Core.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.Common.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.Core.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\Bootcamp.API.DataAccess.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\obj\Debug\Bootcamp.API.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\obj\Debug\Bootcamp.API.BusinessLogic.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.BusinessLogic\obj\Debug\Bootcamp.API.BusinessLogic.pdb

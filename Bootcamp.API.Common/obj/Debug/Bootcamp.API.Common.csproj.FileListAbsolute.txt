@@ -1,0 +1,14 @@
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.Common.exe.config
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.Common.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.Core.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\EntityFramework.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.Core.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\Bootcamp.API.DataAccess.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\EntityFramework.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\obj\Debug\Bootcamp.API.Common.csprojResolveAssemblyReference.cache
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\obj\Debug\Bootcamp.API.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Bootcamp.API\Bootcamp.API.Common\obj\Debug\Bootcamp.API.Common.pdb
